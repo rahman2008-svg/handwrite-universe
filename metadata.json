@@ -1,0 +1,6 @@
+{
+  "name": "HandWrite Universe",
+  "description": "Learn, practice, and master your handwriting in multiple languages with stroke tracking, calligraphy, and AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
